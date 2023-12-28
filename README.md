@@ -27,8 +27,7 @@ e.g
 Referral Sources: Know where your strengths lie. What is the Source of the referral.
 Impact Gauges: Dashboards doubling as a compass for program effectiveness.
 
-![Alt text](dashboards/GIS_Interface.png)
-
+![GIS Interface](https://github.com/rahul-shm/Business_intelligence_hackathon_repo/assets/141134185/171684f1-f6c1-470f-9163-772b3cdd2a8c)
 
 
 # Dashboard 2: The Referrer's Chronicle
@@ -38,4 +37,4 @@ Successful Referral Count: Celebrate every victory.
 Individual Referral Status: Follow the journey of each referral.
 Referral History: Your past successes, Record of the previous referrals and pending one or in the process. 
 
-![Alt text](dashboards/Referrers_Chronicle.png)
+![Referrer's Chronicle](https://github.com/rahul-shm/Business_intelligence_hackathon_repo/assets/141134185/6328fd0b-0014-4735-a510-6039ba8b3c2b)
